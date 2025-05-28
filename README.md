@@ -41,7 +41,7 @@ The interactive dashboard includes the following visuals and metrics:
 - **Date Range Slider** – Allows temporal filtering (e.g., 2021–2025)
 
 > 📷 *Dashboard Preview:*  
-> ![Parking Lot Dashboard](https://github.com/jathin1407/<your-repo-name>/blob/main/parking_lot_dashboard.png?raw=true)
+> ![Parking Lot Dashboard](https://github.com/jathin1407/Parking-lot-Analysis/blob/main/Dashboard_Screenshot.png)
 
 ---
 
